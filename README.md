@@ -8,7 +8,7 @@ Checkout my recent work on [Kindr](https://github.com/bryonyShep/kindr)
 
 
  <img src="Kindranimation.gif" alt="Alt Text" height="300">
-[![Alt Text](mrticklelogo.png)]([shortenedDemo .mp4](https://github.com/bryonyShep/bryonyShep/blob/main/shortenedDemo%20.mp4))
+
 
 
 
