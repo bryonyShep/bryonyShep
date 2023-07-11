@@ -7,7 +7,6 @@ Checkout my recent work on [Kindr](https://github.com/bryonyShep/kindr)
 , a 5 week group project!
 
 
- ![Alt Text](Kindranimation.gif)
- <img src="Kindranimation.gif" alt="Alt Text" height="100">
+ <img src="Kindranimation.gif" alt="Alt Text" height="300">
 
 **bryonyShep/bryonyShep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
