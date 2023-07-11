@@ -3,6 +3,6 @@
 - 🤔 I’m looking for help with everything code
 - 😄 Pronouns: Bry, B
 
-   ![Alt Text](bryonyShep/Kindranimation.gif)
+ ![Alt Text](bryonyShep/Kindranimation.gif)
   
 **bryonyShep/bryonyShep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
