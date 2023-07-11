@@ -3,7 +3,7 @@
 - 🤔 I’m looking for help with everything code
 - 😄 Pronouns: Bry, B
 
-Checkout my recent work on Kindr, a 5 week group project!
+Checkout my recent work on [Kindr](https://github.com/username/repository](https://github.com/bryonyShep/kindr), a 5 week group project!
 
  ![Alt Text](Kindranimation.gif)
   
