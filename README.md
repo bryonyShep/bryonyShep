@@ -5,7 +5,7 @@
 
 Checkout my recent work on [Kindr](https://github.com/bryonyShep/kindr), a 5 week group project!
 
-[![Alt Text](Kindranimation.gif)]([repository_URL](https://github.com/bryonyShep/kindr)
+[![Alt Text](Kindranimation.gif)]([repository_URL](https://github.com/bryonyShep/kindr))
 
 
 // <img src="Kindranimation.gif" alt="Alt Text" height="300">
