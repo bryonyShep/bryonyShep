@@ -4,7 +4,8 @@
 - 😄 Pronouns: Bry, B
 
 Checkout my recent work on [Kindr](https://github.com/bryonyShep/kindr), a 5 week group project!
-Kindr is a user-friendly platform that aims to connect volunteers to people 
+Kindr is a user-friendly 
+platform that aims to connect volunteers to people 
 that need help with tasks in their community. 
 
 
