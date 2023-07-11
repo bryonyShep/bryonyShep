@@ -1,5 +1,5 @@
 ### Hello, I'm Bryony 👋
-- 🌱 I’m currently learning to code with The School of Code
+- 🌱 A recent graduate of School of Code, with a background in graphic design
 - 🤔 I’m looking for help with everything code
 - 😄 Pronouns: Bry, B
 
