@@ -8,5 +8,6 @@ Checkout my recent work on [Kindr](https://github.com/bryonyShep/kindr)
 
 
  ![Alt Text](Kindranimation.gif)
-  
+ <img src="Kindranimation.gif" alt="Alt Text" width="300" height="200">
+
 **bryonyShep/bryonyShep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
