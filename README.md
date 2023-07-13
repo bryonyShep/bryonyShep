@@ -1,7 +1,20 @@
 ### Hello, I'm Bryony 👋
-- 🌱 A recent graduate of School of Code, with a background in graphic design
-- 🤔 I’m looking for help with everything code
+- 🚀 A recent graduate of School of Code, with a background in graphic design
+- 🌱 Plat-based foodie
+- 🔮 I’m always looking to collaborate and create
 - 😄 Pronouns: Bry, B
+
+**Some of my favourite tools:**  
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+​
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+​
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+​
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+​
 
 Checkout my recent work on [Kindr](https://github.com/bryonyShep/kindr), a 5 week group project!
 Kindr is a user-friendly platform that aims to connect volunteers to people that need help with tasks in their community. 
