@@ -3,7 +3,7 @@
 - 🎨 Graphic designer 👉 [fun stuff](https://bryonyshepherd.com)
 - 🏃‍♀️ Keen runner and triathlete
 - 🌱 Plant-based foodie
-- 🔮 I’m always looking to collaborate and create fun things
+- 🔮 I’m always looking to collaborate and create fun things 👉 bryonyshepherd7@gmail.com
 
 **Some of my favourite developer tools:**  
 
