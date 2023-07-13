@@ -1,6 +1,6 @@
 ### Hello, I'm Bryony 👋
 - 🚀 A recent graduate of School of Code
-- 🎨 Graphic designer >>> [fun stuff](https://bryonyshepherd.com) <<<
+- 🎨 Graphic designer 👉 [fun stuff](https://bryonyshepherd.com) <<<
 - 🏃‍♀️ Keen runner and triathlete
 - 🌱 Plant-based foodie
 - 🔮 I’m always looking to collaborate and create fun things
