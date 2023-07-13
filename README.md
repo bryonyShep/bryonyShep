@@ -1,7 +1,8 @@
 ### Hello, I'm Bryony 👋
-- 🚀 A recent graduate of School of Code, with a background in graphic design
+- 🚀 A recent graduate of School of Code
+- 🎨 Graphic designer >>> [checkout my website](https://bryonyshepherd.com) <<<
 - 🌱 Plat-based foodie
-- 🔮 I’m always looking to collaborate and create
+- 🔮 I’m always looking to collaborate and create 
 - 😄 Pronouns: Bry, B
 
 **Some of my favourite tools:**  
