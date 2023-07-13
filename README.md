@@ -16,6 +16,10 @@
 ​
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+![HTML](https://img.shields.io/badge/:badgeContent)
+
 ​
 
 Checkout my recent work on [Kindr](https://github.com/bryonyShep/kindr), a 5 week group project!
