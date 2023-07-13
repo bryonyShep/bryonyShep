@@ -8,7 +8,7 @@
 
 **Some of my favourite tools:**  
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,html,ai,js,nodejs,figma&theme=light)](https://skillicons.dev)
 
 
 
