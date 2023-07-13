@@ -2,7 +2,7 @@
 - 🚀 A recent graduate of School of Code
 - 🎨 Graphic designer >>> [fun stuff](https://bryonyshepherd.com) <<<
 - 🏃‍♀️ Keen runner and triathlete
-- 🌱 Plat-based foodie
+- 🌱 Plant-based foodie
 - 🔮 I’m always looking to collaborate and create fun things
 - 😄 Pronouns: Bry, B
 
