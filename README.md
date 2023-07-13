@@ -2,7 +2,7 @@
 - 🚀 A recent graduate of School of Code
 - 🎨 Graphic designer >>> [checkout my website](https://bryonyshepherd.com) <<<
 - 🌱 Plat-based foodie
-- 🔮 I’m always looking to collaborate and create 
+- 🔮 I’m always looking to collaborate and create fun things
 - 😄 Pronouns: Bry, B
 
 **Some of my favourite tools:**  
