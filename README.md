@@ -4,7 +4,6 @@
 - 🏃‍♀️ Keen runner and triathlete
 - 🌱 Plant-based foodie
 - 🔮 I’m always looking to collaborate and create fun things
-- 😄 Pronouns: Bry, B
 
 **Some of my favourite developer tools:**  
 
